@@ -17,7 +17,7 @@ require (
 	github.com/mrz1836/go-logger v0.2.5
 	github.com/mrz1836/go-sanitize v1.1.5
 	github.com/mrz1836/go-validate v0.2.0
-	github.com/newrelic/go-agent/v3 v3.15.2
+	github.com/newrelic/go-agent/v3 v3.19.1
 	github.com/newrelic/go-agent/v3/integrations/nrhttprouter v1.0.1
 	github.com/spf13/viper v1.10.1
 	github.com/stretchr/testify v1.7.1
